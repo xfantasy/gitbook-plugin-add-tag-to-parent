@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-add-tag-to-parent",
+    "description": "if the book is contained in another window with a iframe tag, the parent window will automatically refresh hash key in the address bar.",
+    "main": "index.js",
+    "version": "0.0.2",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/xfantasy/gitbook-plugin-add-tag-to-parent",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xfantasy/gitbook-plugin-add-tag-to-parent"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xfantasy/gitbook-plugin-add-tag-to-parent/issues"
+    }
+}

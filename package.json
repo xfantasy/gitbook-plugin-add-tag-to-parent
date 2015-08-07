@@ -2,7 +2,7 @@
     "name": "gitbook-plugin-add-tag-to-parent",
     "description": "if the book is contained in another window with a iframe tag, the parent window will automatically refresh hash key in the address bar.",
     "main": "index.js",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "gitbook": "*"
     },
